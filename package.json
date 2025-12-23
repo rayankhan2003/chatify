@@ -15,5 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/bcryptjs": "^3.0.0"
+  },
+  "dependencies": {
+    "resend": "^6.6.0"
   }
 }
